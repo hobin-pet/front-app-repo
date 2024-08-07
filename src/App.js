@@ -64,14 +64,11 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            EKS DEMO Blog
+            EKS DEMO Blog version 1
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
       </AppBar>
-      <br/>
-
-      <UpperPage key={1} />
       <br/>
       
       <form className={classes.searchRoot} noValidate autoComplete="off">
