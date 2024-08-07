@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
-import UpperPage from './page/UpperPage'
+// import UpperPage from './page/UpperPage'
 import axios from 'axios';
 
 import { makeStyles } from '@material-ui/core/styles';
